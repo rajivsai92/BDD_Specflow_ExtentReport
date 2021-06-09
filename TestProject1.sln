@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F17440A0-A1E0-414F-A071-92B583DCE778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17440A0-A1E0-414F-A071-92B583DCE778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17440A0-A1E0-414F-A071-92B583DCE778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17440A0-A1E0-414F-A071-92B583DCE778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17440A0-A1E0-414F-A071-92B583DCE778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F30320-A1E4-4658-A8F6-BE76E934F8D7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/bddautomation
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestProject1\\TestProject1.csproj
+		SccProjectName1 = TestProject1
+		SccLocalPath1 = TestProject1
+	EndGlobalSection
+EndGlobal
